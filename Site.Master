@@ -1,0 +1,132 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ct_project.SiteMaster" %>
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %>- Crime Tracker</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet"/>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/screen.css" rel="stylesheet" />
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.aspx">CrimeTracker</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="index.aspx">Home</a></li>
+                <li><a <% if (Session["user"] != null)
+                        {
+                            Response.Write("href=\"submitReport.aspx\"");
+                        }
+                        else
+                        {
+                            Response.Write("href=\"login.aspx?msg=n\"");
+                        }
+                        %>>Submit Report </a></li>
+                <% if (Session["admin"]!=null)
+                    { %>
+                <li><a href="Admin.aspx">Admin Panel</a></li>
+                            <%
+                    }
+                %>
+
+                <li><a href="#">About</a></li>
+            </ul>
+            <% if (Session["user"] != null)
+                {
+                    string userName = (string)Session["userName"];  %>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#"><span class="glyphicon glyphicon-eye-open"></span>&nbsp;<% Response.Write(userName); %></a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-user"></span>&nbsp;My Profile</a></li>
+                <li><a href="logout.aspx"><span class="glyphicon glyphicon-log-in"></span>&nbsp;Logout</a></li>
+            </ul>
+            <%    }
+                else
+                {   %>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="signup.aspx"><span class="glyphicon glyphicon-user"></span>&nbsp;Sign Up</a></li>
+                <li><a href="login.aspx"><span class="glyphicon glyphicon-log-in"></span>&nbsp;Login</a></li>
+            </ul>
+            <%
+                }
+            %>
+        </div>
+    </nav>
+
+    <div class="col-lg-2">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <b>Crime Categories</b>
+            </div>
+            <div class="panel-body">
+                <!--sidebar -->
+                <asp:ListView ID="optionsList" runat="server" DataKeyNames="CrimeTitle" DataSourceID="SqlDataSource1">
+                    <ItemTemplate>
+                        <li style=""><a href="category.aspx?title=<%# Eval("CrimeTitle") %>">
+                            <asp:Label ID="CrimeTitleLabel" runat="server" Text='<%# Eval("CrimeTitle") %>' /></a>
+                            <br />
+                        </li>
+                    </ItemTemplate>
+                    <LayoutTemplate>
+                        <ul id="itemPlaceholderContainer" runat="server" style="">
+                            <li runat="server" id="itemPlaceholder" />
+                        </ul>
+                        <div style="">
+                        </div>
+                    </LayoutTemplate>
+                </asp:ListView>
+                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT [CrimeTitle] FROM [Crime]"></asp:SqlDataSource>
+            </div>
+        </div>
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <b>Cities</b>
+            </div>
+            <div class="panel-body">
+                <asp:ListView ID="ListViewCities" runat="server" DataKeyNames="City" DataSourceID="SqlDataSource2">
+                    <ItemTemplate>
+                        <li style=""><a href="cities.aspx?name=<%# Eval("City") %>">
+                            <asp:Label ID="CityLabel" runat="server" Text='<%# Eval("City") %>' /></a>
+                            <br />
+                        </li>
+                    </ItemTemplate>
+                    <LayoutTemplate>
+                        <ul id="itemPlaceholderContainer" runat="server" style="">
+                            <li runat="server" id="itemPlaceholder" />
+                        </ul>
+                        <div style="">
+                        </div>
+                    </LayoutTemplate>
+                    <SelectedItemTemplate>
+                        <li style="">City:
+                                <asp:Label ID="CityLabel" runat="server" Text='<%# Eval("City") %>' />
+                            <br />
+                        </li>
+                    </SelectedItemTemplate>
+                </asp:ListView>
+                <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT [City] FROM [City]"></asp:SqlDataSource>
+            </div>
+        </div>
+    </div>
+
+    <!-- end of sidebar -->
+
+    <div class="container body-content">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+        <hr />
+        <footer>
+            <p>&copy; <%: DateTime.Now.Year %>- My ASP.NET Application</p>
+        </footer>
+    </div>
+
+</body>
+</html>

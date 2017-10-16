@@ -1,0 +1,158 @@
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\ApplicationInsights.config
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\csc.exe
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\vbc.exe
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\ct_project.dll.config
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\ct_project.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\ct_project.pdb
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Antlr3.Runtime.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\EntityFramework.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\EntityFramework.SqlServer.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.Web.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Newtonsoft.Json.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Owin.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\System.Web.Optimization.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\System.Web.Providers.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\WebGrease.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.Web.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\System.Web.Optimization.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Antlr3.Runtime.pdb
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Newtonsoft.Json.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\EntityFramework.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\EntityFramework.SqlServer.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\System.Web.Providers.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\obj\Debug\ct_project.dll
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\obj\Debug\ct_project.pdb
+C:\Users\Saqib\documents\visual studio 2015\Projects\ct_project\ct_project\obj\Debug\ct_project.csprojResolveAssemblyReference.cache
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\ApplicationInsights.config
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\csc.exe
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\System.Collections.Immutable.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\vbc.exe
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\VBCSCompiler.exe
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\roslyn\VBCSCompiler.exe.config
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\ct_project.dll.config
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\ct_project.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\ct_project.pdb
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Antlr3.Runtime.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\AspNet.ScriptManager.jQuery.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\EntityFramework.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\EntityFramework.SqlServer.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.Web.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.WindowsServer.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.ApplicationInsights.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Google.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Web.Infrastructure.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Newtonsoft.Json.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Owin.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\System.Web.Optimization.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\System.Web.Providers.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\WebGrease.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.Web.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AI.WindowsServer.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.ApplicationInsights.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\System.Web.Optimization.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Antlr3.Runtime.pdb
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Newtonsoft.Json.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\EntityFramework.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\EntityFramework.SqlServer.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\System.Web.Providers.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Google.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\obj\Debug\ct_project.csprojResolveAssemblyReference.cache
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\obj\Debug\ct_project.dll
+D:\Riphah\5th_Sem\SDT\Project\2nd_Deliverable\ct_project\ct_project\obj\Debug\ct_project.pdb

@@ -1,0 +1,13 @@
+﻿body {
+    
+}
+.form-width{width: 500px; margin:auto;}
+* {
+  margin: 0;
+  padding: 0;
+}
+.sidebar-custom{
+    width: 30%;
+    height:auto;
+}
+
